@@ -1,0 +1,7 @@
+This file is created for git tutorial
+This is part of my second requirement
+git is distributed and fast version control system
+git is comprehensive tool, it has lots of features
+git is widely used
+Docker is lightweight containerzation tool
+this is feature-7
